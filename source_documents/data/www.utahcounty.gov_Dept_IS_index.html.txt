@@ -1,0 +1,25 @@
+Utah County Information Systems
+
+Utah County Information Systems
+
+The Information Systems department provides technology support to all Utah County Government agencies. This support includes acquisition, deployment and management of computer-based workstations, software applications, local and wide-area network infrastructure, security, and information use policy. The department is organized in the following functional groups:
+
+Help Desk
+
+The Help Desk is the central point of contact for all support activities of the department. This group records calls for service and support, dispatches appropriate technical staff, and monitors status and completion of service requests.
+
+Training
+
+The Information Systems department provides training for employees of County departments and agencies. Training is provided for office-automation tools, commercial software used by County agencies, and custom applications developed internally by Information Systems department programmers.
+
+Support Group
+
+This group manages the purchasing, installation and maintenance of computer-related equipment including desktop and portable computer workstations, system and application servers, network infrastructure equipment, and software installation.
+
+Development Group
+
+The functions performed by Utah County departments require specialized applications in order for them to meet Utah statute requirements and deadlines. By using powerful databases, industry-standard tools and technologies, the Development Group creates in-house applications and solutions to meet the needs of each Utah County user. By utilizing web technologies, many outside companies and individuals also benefit.
+
+GIS Group
+
+The Geographic Information Systems (GIS) group manages a complex collection of hardware, software, spatial data layers, and metadata that comprise the County's Geographic Information System. This system, used both by itself, and in conjunction with other custom-developed County applications, provides solutions to many County spatial (map-related) needs and problems.
